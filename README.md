@@ -1,1 +1,1 @@
-# WaveFunctionCollapse
+# wavefunctioncollapse
